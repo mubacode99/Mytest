@@ -4,7 +4,7 @@ using namespace std;
 
 int main(){
     //menentukan harga tiket
-    int tiket_1 = 100000;
+    int tiket_1 = 150000;
     int tiket_2 = 200000;
     int tiket_3 = 300000;
     //menentukan variabel inputan tiket
